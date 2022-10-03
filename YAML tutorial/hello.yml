@@ -1,0 +1,13 @@
+"apple": "a fruit"
+
+# lists
+- apple
+- mango
+- Apple #case sensitive
+
+cities :
+ - kampala
+  - nairobi
+ - kigali
+ - dar-es-saalam
+
