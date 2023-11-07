@@ -1,6 +1,0 @@
-pandas
-numpy
-jupyter
-scikit-learn
-matplotlib
-graphviz

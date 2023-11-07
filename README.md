@@ -1,4 +1,2 @@
 # Hands-on-ml
- Jupyter notebooks for hands On ML book
-
-Plus Python for data science handbook
+* This repostiory contains personal experiments & practice for machine learning & data science projects
